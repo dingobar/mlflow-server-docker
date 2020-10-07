@@ -1,4 +1,4 @@
-FROM amazonlinux:latest
+FROM centos:latest
 
 # Install python and python dependencies
 RUN yum install -y python3
