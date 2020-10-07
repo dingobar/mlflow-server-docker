@@ -7,7 +7,7 @@ You can deploy it to ECS, K8s, locally on your laptop or wherever else you'd wan
 ```bash
 docker-compose up --build -d
 ```
-2. Open [the mlflow UI in your browser](localhost:5000)
+2. Open [the mlflow UI in your browser](localhost:5000) (http://localhost:5000)
 
 # Parameters
 See `docker-compose.yml` for environmental variables to be set.
